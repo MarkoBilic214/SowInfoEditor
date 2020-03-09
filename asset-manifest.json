@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/sow-info-editor/static/css/main.42ab5819.chunk.css",
+    "main.css": "/sow-info-editor/static/css/main.c316703b.chunk.css",
     "main.js": "/sow-info-editor/static/js/main.73508f09.chunk.js",
     "main.js.map": "/sow-info-editor/static/js/main.73508f09.chunk.js.map",
     "runtime-main.js": "/sow-info-editor/static/js/runtime-main.ec8ffdc1.js",
@@ -8,15 +8,15 @@
     "static/js/2.a2667eb6.chunk.js": "/sow-info-editor/static/js/2.a2667eb6.chunk.js",
     "static/js/2.a2667eb6.chunk.js.map": "/sow-info-editor/static/js/2.a2667eb6.chunk.js.map",
     "index.html": "/sow-info-editor/index.html",
-    "precache-manifest.7478d691f58e8775682097ec4a527384.js": "/sow-info-editor/precache-manifest.7478d691f58e8775682097ec4a527384.js",
+    "precache-manifest.f0c2f8c32d016f6c68d9ddc2f7ebe371.js": "/sow-info-editor/precache-manifest.f0c2f8c32d016f6c68d9ddc2f7ebe371.js",
     "service-worker.js": "/sow-info-editor/service-worker.js",
-    "static/css/main.42ab5819.chunk.css.map": "/sow-info-editor/static/css/main.42ab5819.chunk.css.map",
+    "static/css/main.c316703b.chunk.css.map": "/sow-info-editor/static/css/main.c316703b.chunk.css.map",
     "static/js/2.a2667eb6.chunk.js.LICENSE": "/sow-info-editor/static/js/2.a2667eb6.chunk.js.LICENSE"
   },
   "entrypoints": [
     "static/js/runtime-main.ec8ffdc1.js",
     "static/js/2.a2667eb6.chunk.js",
-    "static/css/main.42ab5819.chunk.css",
+    "static/css/main.c316703b.chunk.css",
     "static/js/main.73508f09.chunk.js"
   ]
 }

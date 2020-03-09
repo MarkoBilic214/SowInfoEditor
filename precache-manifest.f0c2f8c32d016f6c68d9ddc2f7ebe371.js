@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "19871913da110c2fb641a170aa7c2338",
+    "revision": "af729327c8ab4f66ce695eeb00be89b3",
     "url": "/sow-info-editor/index.html"
   },
   {
-    "revision": "e0b0a868b2f094fe8d35",
-    "url": "/sow-info-editor/static/css/main.42ab5819.chunk.css"
+    "revision": "3ffbd7fa503f3b4591d6",
+    "url": "/sow-info-editor/static/css/main.c316703b.chunk.css"
   },
   {
     "revision": "c2f7d263861c7135c475",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/sow-info-editor/static/js/2.a2667eb6.chunk.js.LICENSE"
   },
   {
-    "revision": "e0b0a868b2f094fe8d35",
+    "revision": "3ffbd7fa503f3b4591d6",
     "url": "/sow-info-editor/static/js/main.73508f09.chunk.js"
   },
   {
