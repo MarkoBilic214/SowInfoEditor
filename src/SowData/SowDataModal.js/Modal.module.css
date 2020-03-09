@@ -1,0 +1,20 @@
+.modal{
+    position: fixed;
+    top: 15%;
+    right: 30%;
+    background-color: #68091d;
+    height: 40%;
+    width:40%
+}
+
+.modal div{
+    padding-top: 20px;
+}
+
+.firstDiv{
+    margin-top: 5%;
+}
+
+.lastDiv{
+    margin-bottom: 5%;
+}
