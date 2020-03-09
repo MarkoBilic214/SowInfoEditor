@@ -55,11 +55,11 @@ const SowFileInfo = () => {
         })
     }
 
-    const readFileContents = (fileContents)  =>{
+    const readFileContents = (fileContents) => {
         let data = [];
-        fileContents.split("\n").slice(1,-1).forEach(element => {
+        fileContents.split("\n").slice(1, -1).forEach(element => {
             let splitElement = element.split(",");
-            data.push({p: splitElement[0],r: splitElement[1], t:splitElement[3], a: splitElement[2]});
+            data.push({ p: splitElement[0], r: splitElement[1], t: splitElement[3], a: splitElement[2] });
         });
         return data;
     }
@@ -84,7 +84,7 @@ const SowFileInfo = () => {
                 <div>
                     <div>
                         Time Started
-                </div>
+                    </div>
                     <input type="text" defaultValue={SowInfo.TimeStarted} onChange={setTimeStarted}></input>
                 </div>
                 <div>

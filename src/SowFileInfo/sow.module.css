@@ -5,8 +5,18 @@
     padding-bottom: 40px;
     margin-top: 20px;
     display: flex;
-    align-items: center;
+    justify-content: left;
     border: 2px solid #f9d276;
     border-radius: 5px;
+}
+
+.sowHeadContainer div{
+    min-width: 0;
+    width: auto;
+}
+
+.sowHeadContainer div input{
+    min-width: 0;
+    width: auto;
 }
 
